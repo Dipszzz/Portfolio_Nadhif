@@ -29,10 +29,7 @@ const Contact = () => {
       >
         {/* WhatsApp */}
         <a
-          href="https://wa.me/6282125211091"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-[#40534C] p-6 rounded-lg flex flex-col items-center hover:scale-105 transition-transform"
+          className="bg-[#40534C] p-6 rounded-lg flex flex-col items-center hover:scale-105 transition-transform cursor-pointer"
           data-aos="zoom-in"
         >
           <FaWhatsapp className="text-4xl text-[#D6BD98] mb-2" />
@@ -42,8 +39,7 @@ const Contact = () => {
 
         {/* Email */}
         <a
-          href="mailto:nadhifhisyam500@gmail.com"
-          className="bg-[#40534C] p-6 rounded-lg flex flex-col items-center hover:scale-105 transition-transform"
+          className="bg-[#40534C] p-6 rounded-lg flex flex-col items-center hover:scale-105 transition-transform cursor-pointer"
           data-aos="zoom-in"
           data-aos-delay="100"
         >
@@ -54,7 +50,7 @@ const Contact = () => {
 
         {/* Instagram */}
         <a
-          href="https://instagram.com/ndhifhsyamahmd"
+          href="https://instagram.com/dypdipsdepdip"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#40534C] p-6 rounded-lg flex flex-col items-center hover:scale-105 transition-transform"
@@ -63,7 +59,7 @@ const Contact = () => {
         >
           <FaInstagram className="text-4xl text-[#D6BD98] mb-2" />
           <h3 className="text-xl font-semibold mb-1">Instagram</h3>
-          <p>@ndhifhsyamahmd</p>
+          <p>@dypdipsdepdip</p>
         </a>
       </div>
     </section>

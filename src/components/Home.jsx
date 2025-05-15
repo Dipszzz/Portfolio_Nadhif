@@ -29,7 +29,7 @@ const Home = () => {
         data-aos="fade-right"
       >
         <div className="max-w-full text-center md:text-left">
-          <h1 className="text-5xl md:text-6xl font-bold mb-4">
+          <h1 className="text-4xl md:text-6xl font-bold mb-4">
             Hi, I'm{" "}
             <RotatingText
               texts={["Nadhif", "Hisyam", "Ahmad"]}
@@ -44,7 +44,7 @@ const Home = () => {
               rotationInterval={2000}
             />
           </h1>
-          <p className="text-3xl mb-6">A Front-End Developer</p>
+          <p className="text-3xl md:text-4xl mb-6">A Front-End Developer</p>
           <p className="text-xl mb-6 italic">
             Crafting clean, intuitive web experiences where design meets
             performance. Every detail enhances and elevates the user journey.
