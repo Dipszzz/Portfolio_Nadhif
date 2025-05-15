@@ -21,7 +21,7 @@ const Navbar = () => {
             className="cursor-pointer text-3xl font-bold text-[#D6BD98] flex justify-center items-center"
           >
             <CodeBracketIcon className="h-8 w-8 text-[#1A3636]" />
-            <span className="text-[#1A3636]">Dips</span>Portfolio
+              Dipszzz
           </Link>
 
           <div className="hidden md:flex space-x-6 text-xl">

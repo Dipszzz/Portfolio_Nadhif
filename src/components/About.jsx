@@ -80,7 +80,7 @@ const About = () => {
           </h3>
           <ul className="list-disc pl-6 space-y-2">
             <li>
-              <strong>SMK Letris Indonesia 2</strong> — <br />Software Engineering
+              <strong>SMK Letris Indonesia 2</strong> — Software Engineering
               (2023–Present).
             </li>
           </ul>
@@ -93,7 +93,7 @@ const About = () => {
           </h3>
           <ul className="list-disc pl-6 space-y-2">
             <li>
-              <strong>Front-End Developer Intern</strong> — <br />PT Samawa Consultant
+              <strong>Front-End Developer Intern</strong> — PT Samawa Consultant
               Indonesia (2025)
               <br />
               Developed website interfaces using React and Tailwind CSS.
